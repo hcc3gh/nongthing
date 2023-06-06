@@ -1,2 +1,1 @@
-fist
-ok
+fist ok
